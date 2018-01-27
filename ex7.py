@@ -2,7 +2,7 @@
 print "Mary had a little lamb."
 print "Its fleece was white as %s." %'snow'#mistake I forgot to use % before the str
 print "And everywhere that Mary went."
-print "."*10
+print "."*10 # I forget write *
 
 
 
